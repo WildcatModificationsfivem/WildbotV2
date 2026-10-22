@@ -1,0 +1,15 @@
+{
+  "name": "district-one-roleplay-bot",
+  "version": "3.0.0",
+  "description": "District One Roleplay Discord-only bot with automatic command loading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "mysql2": "^3.24.6"
+  }
+}
