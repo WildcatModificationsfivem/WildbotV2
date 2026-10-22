@@ -1,4 +1,4 @@
-# District One Roleplay Discord Bot
+# WildBot Discord Bot
 
 This is the Discord-only version.
 
